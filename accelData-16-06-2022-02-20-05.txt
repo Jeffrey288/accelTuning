@@ -1,0 +1,11 @@
+Time: 923.06   Vel:   0.00 | Time: 923.58   Accel: 0.00 
+Time: 923.12   Vel:   0.00 | Time: 923.63   Accel: 0.00 
+Time: 923.17   Vel:   0.00 | Time: 923.69   Accel: 0.00 
+Time: 923.22   Vel:   0.00 | Time: 923.74   Accel: 0.00 
+Time: 923.27   Vel:   0.00 | Time: 923.79   Accel: 0.00 
+Time: 923.32   Vel:   0.00 | Time: 923.84   Accel: 0.00 
+Time: 923.38   Vel:   0.00 | Time: 923.89   Accel: 0.00 
+Time: 923.43   Vel:   0.00 | Time: 923.95   Accel: 0.00 
+Time: 923.48   Vel:   0.00 | Time: 924.00   Accel: 0.00 
+Time: 923.53   Vel:   0.00 | Time: 924.05   Accel: 0.00 
+Time: 923.58   Vel:   0.00 | Time: 924.10   Accel: 0.00 
